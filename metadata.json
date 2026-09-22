@@ -1,0 +1,6 @@
+{
+  "name": "ChifaExpress DZ - Livraison Médicaments Algérie",
+  "description": "Application algérienne de commande et livraison rapide de médicaments avec tiers-payant Carte Chifa, pour Clients, Pharmacies et Livreurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
